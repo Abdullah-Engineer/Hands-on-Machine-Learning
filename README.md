@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter notebooks for Chapters 1 and 2 of *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow – Second Edition* by Aurélien Géron. It serves as a practical resource for learners and practitioners aiming to understand the foundational concepts of machine learning.([GitHub][1])
 
-## 📚 Contents
+## Contents
 
 The repository includes the following notebooks:
 
@@ -16,7 +16,7 @@ The repository includes the following notebooks:
   * A comprehensive walkthrough of a real-world machine learning project.
   * Covers data acquisition, exploration, preprocessing, model training, evaluation, and deployment considerations.
 
-## 🛠️ Getting Started
+## Getting Started
 
 To effectively utilize the notebooks in this repository, follow the steps below:
 
@@ -70,7 +70,7 @@ Ensure you have the following installed:
 
 Navigate to the cloned repository folder and open the desired notebook.
 
-## 🧰 Key Libraries and Tools
+## Key Libraries and Tools
 
 The notebooks utilize the following Python libraries:
 
@@ -83,7 +83,7 @@ The notebooks utilize the following Python libraries:
 
 Ensure these libraries are installed in your environment to run the notebooks without issues.
 
-## 📖 Reference
+## Reference
 
 This repository is based on the book:
 
@@ -91,7 +91,7 @@ This repository is based on the book:
 
 For a more in-depth understanding, consider reading the book alongside exploring the notebooks.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to add notebooks for subsequent chapters, improve existing ones, or fix issues, please follow these steps:
 
@@ -125,11 +125,11 @@ Contributions are welcome! If you'd like to add notebooks for subsequent chapter
 
 Please ensure your contributions align with the project's purpose and maintain code quality.
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📬 Contact
+## Contact
 
 For questions, suggestions, or collaborations, feel free to reach out:
 
