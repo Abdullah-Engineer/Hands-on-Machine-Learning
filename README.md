@@ -43,7 +43,7 @@ Machine learning is best learned by doing. Each notebook in this repo walks thro
 | 08      | Unsupervised Learning (PCA, Clustering)            | `08_unsupervised_learning.ipynb`                       |
 | …       | …                                                  | …                                                      |
 
-> **Note:** Only Chapters 3 and 4 are fully implemented; other chapters may be skeletons or works in progress.
+> **Note:** Only Chapters 1, 2, 3 and 4 are fully implemented; other chapters may be skeletons or works in progress.
 
 ---
 
@@ -61,7 +61,7 @@ Machine learning is best learned by doing. Each notebook in this repo walks thro
    ```bash
    git clone https://github.com/Abdullah-Engineer/Hands-on-Machine-Learning.git
    cd Hands-on-Machine-Learning
-````
+
 
 2. **Create & activate a virtual environment**
 
