@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Abdullah-Engineer/Hands-on-Machine-Learning.git](https://github.com/Abdullah-Engineer/Hands-on-Machine-Learning.git)
+    git clone https://github.com/Abdullah-Engineer/Hands-on-Machine-Learning.git
     cd Hands-on-Machine-Learning
     ```
 
