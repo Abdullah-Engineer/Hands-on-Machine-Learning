@@ -1,0 +1,9 @@
+# Core libraries for data manipulation and numerical operations
+numpy
+pandas
+
+# Machine Learning framework
+scikit-learn>=0.20.0
+
+# Plotting and visualization
+matplotlib
