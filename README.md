@@ -89,10 +89,10 @@ The repository is logically organized into chapters, with each chapter's content
 
 ```
 Hands-on-Machine-Learning/
-├── Chapter_1_The_ML_Landscape/
-│   └── ML_Internship_Chapter_1_Code.ipynb
-├── Chapter_2_End_to_End_ML_Project/
-│   └── ML_Internship_Chapter_2_Code.ipynb
+├── ML_Internship_Chapter_1_Code.ipynb
+├── ML_Internship_Chapter_2_Code.ipynb
+├── ML_Internship_Chapter_3_Code.ipynb
+├── ML_Internship_Chapter_4_Code.ipynb
 ├── requirements.txt
 └── README.md
 ```
